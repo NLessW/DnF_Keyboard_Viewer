@@ -1,7 +1,7 @@
 # DnF_Keyboard_Viewer
 <br/>
 ## Normal
-![image](https://github.com/user-attachments/assets/2e5cf0d4-f4d2-4349-865a-797992bbfe5a)
+![image](https://github.com/user-attachments/assets/b3b75e92-dc82-4e02-83d9-5bfa5d5a76ac)
 <br/>
 <br/>
 
