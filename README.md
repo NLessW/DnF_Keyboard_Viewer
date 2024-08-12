@@ -2,25 +2,27 @@
 <br/><br/>
 ## Normal
 
-![image](https://github.com/user-attachments/assets/b3b75e92-dc82-4e02-83d9-5bfa5d5a76ac)
+![image](https://github.com/user-attachments/assets/961c0a50-2d34-4e9b-a54d-e43abe768ab1)
+
 <br/>
 <br/>
 
 ## Light Mode
-![image](https://github.com/user-attachments/assets/80dd2338-f742-4394-bc56-a84d503e5fb6)
+![image](https://github.com/user-attachments/assets/f5089132-26cb-4222-bcb7-3390c62e1e1e)
 
 <br/>
 <br/>
 
 ## Dark Mode
-![image](https://github.com/user-attachments/assets/66560d56-4279-4b89-9157-c41724903bd1)
+![image](https://github.com/user-attachments/assets/62703c66-bfa4-4338-ba31-2326049c7605)
 <br/>
 <br/>
 
 ## Light Chroma Mode
-![image](https://github.com/user-attachments/assets/9dd4b750-06cd-47b9-8a0b-f9c1f26a6161)
+![image](https://github.com/user-attachments/assets/77b6e925-18ff-4aa8-8684-7554990d874e)
+
 <br/>
 <br/>
 
 ## Dark Chroma Mode
-![image](https://github.com/user-attachments/assets/404eaae1-48ea-462b-b2bf-13507bf0541f)
+![image](https://github.com/user-attachments/assets/413ebc5a-dec8-4c38-999f-da60a6b8668c)
